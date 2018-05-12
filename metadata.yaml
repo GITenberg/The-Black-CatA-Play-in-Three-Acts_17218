@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7234
     wikipedia: http://en.wikipedia.org/wiki/John_Todhunter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17218#The-Black-CatA-Play-in-Three-Acts
 gutenberg_issued: '2005-12-04'
 gutenberg_type: Text
 identifiers:
